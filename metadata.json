@@ -1,0 +1,6 @@
+{
+  "name": "Random Number Generator",
+  "description": "A versatile and highly polished tool for generating random numbers, rolling dice, flipping coins, shuffling lists, and creating secure strings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
